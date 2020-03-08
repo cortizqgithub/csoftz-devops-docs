@@ -1,5 +1,5 @@
 name: devops
 title: DevOps Microservice
-version: '1.0'
+version: master
 nav:
 - modules/ROOT/nav.adoc
