@@ -1,5 +1,6 @@
 name: devops
 title: DevOps Microservice
-version: 1
+version: '1.0'
+start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
